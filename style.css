@@ -1,0 +1,99 @@
+html {
+    width:100%;
+}
+
+body {
+    background-color: #fafafa;
+    width:100%;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 17%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.navcenter {
+    position: absolute;
+    top: 5%;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.imgsize {
+    height: 15%;
+    width: 15%;
+}
+
+.navmenu {
+    margin-left:3%;
+}
+
+a { color: inherit; }
+
+
+.second {
+
+    background-color: #ffffff;
+    width: 1000px;
+    margin: auto;
+    position: relative;
+    top: -20%;
+}
+
+#basix {
+    margin-top: 20%;
+}
+
+#angu {
+    margin-top: 25%;
+}
+
+#php {
+    margin-top: 20%;
+}
+
+
+#others {
+    margin-top: 5%;
+}
+
+#mahname {
+    margin-bottom: 0;
+}
+
+.aboutme {
+    font-size: 18px;
+}
+
+#contacto {
+    font-family: roboto thin;
+}
+
+#fb {
+    height: 8%;
+    width: 5%;
+}
+
+#copy {
+    margin-bottom: 5%;
+}
+
+#cpy {
+    margin-top: 10px;
+}
+
+
+
+
